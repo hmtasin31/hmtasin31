@@ -15,9 +15,6 @@
 
 ### 🤝 Connect With Me
 
-
-
-
 <p align="left">
 <a href="https://www.linkedin.com/in/hanjala-mahmud-tasin" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/share/1A6uUJL2w6/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
@@ -25,9 +22,6 @@
 </p>
 
 ### 🚀 Featured Project
-
-
-
 
 <a href="https://hmtasin31.github.io/Hanjala-mahmud-tasin-personal-portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Live%20Now-2ea44f?style=for-the-badge" alt="Portfolio"/>
@@ -39,20 +33,37 @@
   <img src="https://img.shields.io/badge/Email-hanjalamahmudtasin@gmail.com-D14836?style=for-the-badge" alt="Email"/>
 </a>
 
+---
 
+### 📌 Current Focus
 
+- Strengthening Python programming fundamentals.
+- Exploring Machine Learning concepts and techniques.
+- Learning the foundations of Artificial Intelligence.
+- Improving problem-solving and programming skills.
+- Practicing with Google Colab and VS Code.
 
+### 🎯 Learning Goals
 
+- Build practical Python projects.
+- Develop a strong foundation in Machine Learning.
+- Explore Data Science and AI technologies.
+- Contribute to real-world development projects.
+- Continuously improve through hands-on learning.
 
+### 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hmtasin31&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmtasin31&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
 
+### 💡 Developer Mindset
 
+<p align="center">
+  <i>"Every expert was once a beginner. Keep learning, keep building, and never stop improving."</i>
+</p>
 
-
-
-
-
-
-
-
-
+<p align="center">
+  <b>Thanks for visiting my profile! 😊</b>
+</p>
