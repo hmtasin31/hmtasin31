@@ -23,12 +23,8 @@
 
 ### 🚀 Featured Project
 
-<a href="https://hmtasin31.github.io/Hanjala-mahmud-tasin-personal-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Live%20Now-2ea44f?style=for-the-badge" alt="Portfolio"/>
-</a>
+- 🌐 [My Personal Portfolio](https://hmtasin31.github.io/Hanjala-mahmud-tasin-personal-portfolio/)
 
-### 📫 Email
+### 📫 How to reach me
 
-<a href="mailto:hanjalamahmudtasin@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hanjalamahmudtasin@gmail.com-D14836?style=for-the-badge" alt="Email"/>
-</a>
+- Email: [hanjalamahmudtasin@gmail.com](mailto:hanjalamahmudtasin@gmail.com)
