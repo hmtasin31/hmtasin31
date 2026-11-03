@@ -15,6 +15,9 @@
 
 ### 🤝 Connect With Me
 
+
+
+
 <p align="left">
 <a href="https://www.linkedin.com/in/hanjala-mahmud-tasin" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/share/1A6uUJL2w6/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
@@ -22,6 +25,9 @@
 </p>
 
 ### 🚀 Featured Project
+
+
+
 
 <a href="https://hmtasin31.github.io/Hanjala-mahmud-tasin-personal-portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Live%20Now-2ea44f?style=for-the-badge" alt="Portfolio"/>
