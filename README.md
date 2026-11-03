@@ -13,18 +13,26 @@
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" alt="Google Colab" width="48" height="48"/>
 </p>
 
+### 🚀 Featured Project
+
+<a href="https://hmtasin31.github.io/Hanjala-mahmud-tasin-personal-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Live%20Now-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/hmtasin31/Hanjala-mahmud-tasin-personal-portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hanjala-mahmud-tasin" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/share/1A6uUJL2w6/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/hm_tas5in?exln=MTFrMnJ2NzJkczcybw==" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/hanjala-mahmud-tasin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/share/1A6uUJL2w6/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/hm_tas5in?exln=MTFrMnJ2NzJkczcybw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:hanjalamahmudtasin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-### 🚀 Featured Project
+---
 
-- 🌐 [My Personal Portfolio](https://hmtasin31.github.io/Hanjala-mahmud-tasin-personal-portfolio/)
-
-### 📫 How to reach me
-
-- Email: [hanjalamahmudtasin@gmail.com](mailto:hanjalamahmudtasin@gmail.com)
+<p align="center">
+  <i>⚡ "Learning something new every day." ⚡</i>
+</p>
