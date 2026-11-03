@@ -33,37 +33,4 @@
   <img src="https://img.shields.io/badge/Email-hanjalamahmudtasin@gmail.com-D14836?style=for-the-badge" alt="Email"/>
 </a>
 
----
 
-### 📌 Current Focus
-
-- Strengthening Python programming fundamentals.
-- Exploring Machine Learning concepts and techniques.
-- Learning the foundations of Artificial Intelligence.
-- Improving problem-solving and programming skills.
-- Practicing with Google Colab and VS Code.
-
-### 🎯 Learning Goals
-
-- Build practical Python projects.
-- Develop a strong foundation in Machine Learning.
-- Explore Data Science and AI technologies.
-- Contribute to real-world development projects.
-- Continuously improve through hands-on learning.
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmtasin31&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmtasin31&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
-
-### 💡 Developer Mindset
-
-<p align="center">
-  <i>"Every expert was once a beginner. Keep learning, keep building, and never stop improving."</i>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 😊</b>
-</p>
